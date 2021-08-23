@@ -1,0 +1,13 @@
+Desafio 13. Servidores, Seguridad y SEO para tu sitio
+
+1. Agregue la descripcion.
+2. Tambien agregue mis metakeyboards en todas las html.
+3. Me asegure de tener H1 y H2 en todas mi paginas.
+4. Se agrego el html Error 404.
+5. Optimice imagenes.
+6. Chequeado que sea MobileFriendly (index)
+7. Title.
+8. Author
+9. Chequeado en w3c si es navegable para cualquier usuario.
+10.Modifique los HTML para mejor navegación 
+
